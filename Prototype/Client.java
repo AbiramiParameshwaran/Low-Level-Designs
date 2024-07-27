@@ -28,5 +28,6 @@ public class Client {
         notebookRuledSmall2.setBackpage("one Animal");
 
         System.out.println(notebookRuledSmall1);
+        System.out.println(notebookRuledSmall2);
     }
 }
